@@ -1,0 +1,5 @@
+C:\Users\levimann\Desktop\GroverGamingTest_LSM\bin\Release\net6.0\publish\GroverGamingTest_LSM.exe
+C:\Users\levimann\Desktop\GroverGamingTest_LSM\bin\Release\net6.0\publish\GroverGamingTest_LSM.dll
+C:\Users\levimann\Desktop\GroverGamingTest_LSM\bin\Release\net6.0\publish\GroverGamingTest_LSM.deps.json
+C:\Users\levimann\Desktop\GroverGamingTest_LSM\bin\Release\net6.0\publish\GroverGamingTest_LSM.runtimeconfig.json
+C:\Users\levimann\Desktop\GroverGamingTest_LSM\bin\Release\net6.0\publish\GroverGamingTest_LSM.pdb
